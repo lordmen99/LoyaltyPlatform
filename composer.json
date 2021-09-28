@@ -28,8 +28,6 @@
         "fedeisas/laravel-mail-css-inliner": "^2.0",
         "funkjedi/composer-include-files": "^1.0",
         "fzaninotto/faker": "^1.8",
-        "giftd/library": "@dev",
-        "giftd/nova": "@dev",
         "giggsey/libphonenumber-for-php": "^8.9",
         "graze/guzzle-jsonrpc": "~3.0",
         "guzzlehttp/guzzle": "^6.3",
